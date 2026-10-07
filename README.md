@@ -34,10 +34,11 @@ Python · pandas · NumPy · SciPy · statsmodels · Matplotlib · Seaborn · Ju
 └── requirements.txt
 ```
 
-## Project Progress
+**Status:** Milestone 2 — Funnel analysis complete
 
 - [x] Milestone 1: Set up the project repository
-- [x] Milestone 2: Multi-step funnel and friction analysis- [ ] Milestone 3: Monthly cohort retention and lifecycle decay
+- [x] Milestone 2: Multi-step funnel and friction analysis
+- [ ] Milestone 3: Monthly cohort retention and lifecycle decay
 - [ ] Milestone 4: A/B test statistical evaluation and diagnostics
 - [ ] Milestone 5: Executive decision memo and portfolio delivery
 
