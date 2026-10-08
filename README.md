@@ -99,7 +99,7 @@ The next product investigation should focus on mobile layout, CTA visibility, fo
 ## 📁 Repository Structure
 
 ```text
-A-B-Testing-Product-Experimentation-Analysis-M1/
+A-B-Testing-Product-Experimentation-Analysis/
 ├── notebooks/
 │   ├── 02_funnel_analysis.ipynb
 │   ├── 03_cohort_retention.ipynb
